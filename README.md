@@ -18,7 +18,7 @@ a texting screen to receive or send messages to each other.
 <a href = "PICS/pic2.png"><img src = "PICS/pic2.png">
 
 ### 3rd - Message has been sent:
-<a href = "PICS/pic3.png"><img src = "PICS/pic4.png">
+<a href = "PICS/pic3.png"><img src = "PICS/pic3.png">
 
 ### 4th - Message has been received:
 <a href = "PICS/pic4.png"><img src = "PICS/pic4.png">
